@@ -1,1 +1,2 @@
-# playgamesonline.github.io
+# digital-clock
+This is a JavaScript digital clock 
